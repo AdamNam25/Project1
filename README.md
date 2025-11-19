@@ -1,5 +1,7 @@
 Video demo Website: https://youtu.be/cg9LouoLBPs
 
+Link github: https://github.com/AdamNam25/Nhom-7/tree/master
+
 Switch branches/tags "master" trên github để xem các file, bao gồm file doc và slide
 
 # **📌 README – HỆ THỐNG QUẢN LÝ BÁN QUẦN ÁO ARVILA**
