@@ -1,6 +1,6 @@
 Video demo Website: https://youtu.be/cg9LouoLBPs
 
-Link github: https://github.com/AdamNam25/Nhom-7/tree/master
+Link github: https://github.com/AdamNam25/Projecct1/tree/master
 
 Switch branches/tags "master" trên github để xem các file, bao gồm file doc và slide
 
@@ -159,13 +159,12 @@ Website bao gồm 2 giao diện:
 
 ---
 
-## **8. Tác giả & thông tin nhóm**
+## **8. Tác giả**
 
-Dự án được thực hiện bởi nhóm sinh viên:
+Dự án được thực hiện bởi sinh viên:
 
 * **Phạm Nguyễn Thành Nam**
-* **Trần Anh Tuấn**
-* **Phan Đức Thắng**
+
 
 ---
 
