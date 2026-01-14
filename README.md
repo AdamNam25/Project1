@@ -1,6 +1,6 @@
 Video demo Website: https://youtu.be/cg9LouoLBPs
 
-Link github: https://github.com/AdamNam25/Projecct1/tree/master
+Link github: https://github.com/AdamNam25/Project1/tree/master
 
 Switch branches/tags "master" trên github để xem các file, bao gồm file doc và slide
 
